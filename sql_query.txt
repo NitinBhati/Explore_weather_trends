@@ -1,0 +1,12 @@
+
+SELECT * 
+    FROM city_data 
+    WHERE country LIKE 'Germany'
+
+SELECT *
+    FROM city_data
+    WHERE city='Berlin' AND
+    country='Germany'
+
+
+SELECT * FROM global_data;
