@@ -1,5 +1,4 @@
 # Explore_weather_trends
-Explore weather trends
 
 Analyze local (Berlin city) and global temperature data and compare the temperature trends to overall global temperature trends.
 
@@ -16,6 +15,7 @@ Methodology
 3.	A line chart visualization using moving average of the Berlin Vs Global data.
 
 Conclusion
+
 Berlin is slightly warmer than global average, i.e., only by 0.5159 degrees Celsius higher than global.
 Berlin and Global avg temperatures are pretty much alike as they are both cold.
 Berlin is the capital of Germany and it is the part of Europe, where temperature is usually low. Berlin temperature fluctuates a lot as seen from Berlin line chart, but from 1970, there is an increase of avg temp by almost 2 degrees.
